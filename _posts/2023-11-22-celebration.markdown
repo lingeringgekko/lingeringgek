@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "庆祝blog建立"
+title: "celebration"
 date: 2023-11-22
 description: 这一条post在半夜1点写的，刚刚把网站建立起来，简单庆祝一下罢。
 ---
